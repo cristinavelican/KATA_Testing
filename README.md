@@ -36,8 +36,17 @@ Using our scenario as an example, write and execute BDD scenarios for the follow
 * If the desired period is already occupied, select a different one
 * Check that the date in the successful booking pop-up corresponds with the date that you have selected
 
+In order to install all the necesary gems (ruby libraries) for this project you need to run the following commands in a terminal (which being located inside the project path):
+`gem install bundler`
+`bundle install`
+
+The second command will install all the dependencies/gems defined in the Gemfile
+
 ### Useful resources:
 * https://gist.github.com/tomas-stefano/6652111 (capybara cheet-sheet)
 * https://blog.morizyun.com/blog/capybara-selenium-webdriver-ruby/index.html
 * https://itsadeliverything.com/declarative-vs-imperative-gherkin-scenarios-for-cucumber
+
+
+
 
