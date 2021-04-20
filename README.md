@@ -33,8 +33,8 @@ In this feature file you will add the BDD scenarios for the below requests
 
 Using our scenario as an example, write and execute BDD scenarios for the following situations:
 * Book a room from https://automationintesting.online/#/ for a period of 2 nights by filling the information needed (first name, last name, email, phone) and clicking Book now. Test is successful if you get a pop-up "Booking successful. Congratulations! Your booking has been confirmed for: xxx-xxx(period)"
-** Check that the date in the successful booking pop-up corresponds with the date that you have selected
-*** If the desired period is already occupied, select a different one (e.g.: In the below example the period 3-5 May appears as Unavailable, so we will select the period immediate after that is available e.g. 5-7 May)
+* Check that the date in the successful booking pop-up corresponds with the date that you have selected
+* If the desired period is already occupied, select a different one (e.g.: In the below example the period 3-5 May appears as Unavailable, so we will select the period immediate after that is available e.g. 5-7 May)
 <img width="487" alt="proof" src="https://user-images.githubusercontent.com/12544803/115431373-8253d380-a205-11eb-9339-39a57af24679.PNG">
 
 
