@@ -1,5 +1,15 @@
 # KATA Testing
 
+## How to work with the framework?
+* Make a github account
+* Fork the framework into your own domain or download it locally on your computer
+* Read the below information and use the resources mentioned to get used to the programming languages and the best practices to be apply while coding
+
+## Prerequisites
+* Install Ruby locally: https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/
+* Install the bundler gem (command in the terminal : gem install bundler)
+* Go to the location of your newly cloned / downloaded framework and do a bundle install to install all the necessary gems
+
 ## Framework structure
 
 The below framework can be used for UI automation, using Ruby and Capybara (a Ruby gem/library similar to Selenium that can be used for UI automation)
